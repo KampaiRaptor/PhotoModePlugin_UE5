@@ -2,16 +2,17 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "PhotoMode",
-	"Description": "",
-	"Category": "Other",
+	"FriendlyName": "Photo Mode",
+	"Description": "Advanced Photo Mode to your game in less than Two Minutes!",
+	"Category": "Photo Mode Blueprints",
 	"CreatedBy": "KampaiRaptor",
-	"CreatedByURL": "",
-	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "",
+	"CreatedByURL": "https://www.patreon.com/kampairaptor",
+	"DocsURL": "https://docs.google.com/document/d/1VrnFGNd4VwB0SAoq-_u4Hi_sFmHW362cvIOWWSS4pns/edit#heading=h.pjx03avsimvn",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bfc107f9928d4630b4a275ea50144618",
+	"SupportURL": "https://discord.gg/8y7kWZngqK",
+	"EngineVersion": "5.1.0",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": true,
+	"PlatformAllowList": [ "Win64", "Win32", "Mac" ]
+
 }
