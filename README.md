@@ -21,7 +21,7 @@ Features:
 You are free to:
 - Use the plugin in any non-profit way. Learning purposes or completely free games/products are fine.
 
-For comercial use please see Patreon -> [Patreon](https://www.patreon.com/kampairaptor)
+For commercial use please see Patreon -> [Patreon](https://www.patreon.com/kampairaptor)
 
 Basically if you make money from product using this plugin, join the patreon or purchase the plugin from the marketplace. If you don't make money from the aforementioned product, I don't give a shit what you do with this plugin.
 
