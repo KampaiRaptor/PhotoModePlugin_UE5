@@ -2,7 +2,8 @@
 
 Photo Mode plugin let's you add photo/camera mode into your game in less than two minutes.
 Works like a charm from any actor in your project.
-Input is preconfigured using Enhanced Input system for both Mouse/Keyboard and gamepad. It can be easily adapted and re binded to whatever your project needs.
+
+Input is preconfigured using Enhanced Input system for both Mouse/Keyboard and Gamepad. It can be easily adapted and re binded to whatever your project needs.
 Image filter mode already build-in with many presets and easy customizability in case you wanted to add your own.
 
 All the code is fully commented and as a bonus you will get access to documentation, video tutorials and support discord server. Please be aware that support is offered only to Patreon supporters.
