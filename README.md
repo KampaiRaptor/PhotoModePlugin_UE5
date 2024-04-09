@@ -19,15 +19,19 @@ Features:
 
 ## License
 
-You are free to:
-- Use the plugin in any non-profit way. Learning purposes or completely free games/products are fine.
+[MIT](https://choosealicense.com/licenses/mit/)
+    - That means you can use this project for any personal or commercial use, but you have to credit source.
 
-For commercial use please see Patreon -> [Patreon](https://www.patreon.com/kampairaptor)
-
-Basically if you make money from product using this plugin, join the patreon or purchase the plugin from the marketplace. If you don't make money from the aforementioned product, I don't give a shit what you do with this plugin.
+Please do realize that you are accepting UE EULA by using this project as it is Unreal Engine based project.
 
 
 ## Author
 
 - [@SirFansi](https://github.com/Fansi129)
 - Contact: fansi@kampairaptor.com
+- Please consider supporting us on: https://www.patreon.com/kampairaptor so we can keep creating free plugins for everyone
+
+## Contributing
+
+Contributions are always welcome! I would love to see what this project can become.
+If you are interested please do let me know!
